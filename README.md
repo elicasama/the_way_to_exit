@@ -4,8 +4,6 @@
 
 ![Tablero](./src/assets/img/preview.png)
 
-⚠️ Es un prototipo, solo muestra un nivel del juego.
-
 ## El Proyecto
 
 El proyecto consistió en tomar el código básico de un juego estilo puzzle y hacer el refactor del mismo.
@@ -18,7 +16,7 @@ Ingresá a [The way to the exit](https://elicasama.github.io/the_way_to_exit/)
 
 Usando las flechas del teclado ayuda a nuestro heroe a sortear a los enemigos ☠️, recuperar la 🗝️ y salir de la mazmorra 🏆
 
-***¡Espero que te diviertas!***
+**_¡Espero que te diviertas!_**
 
 ## Desafíos
 
@@ -30,6 +28,6 @@ En el proceso aprendí:
 
 ## Recursos
 
-- Imágenes: [OpenGamArt.Com](https://opengameart.org/)
+- Imágenes: [OpenGameArt.Com](https://opengameart.org/)
 
 - Líbrería: [Keypress](https://dmauro.github.io/Keypress)
