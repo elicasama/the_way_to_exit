@@ -1,4 +1,4 @@
-# The way to the exit
+# The way to exit
 
 [The way to the exit](https://elicasama.github.io/the_way_to_exit/) es un prototipo para un juego de mazmorras.
 
@@ -30,4 +30,4 @@ En el proceso aprendí:
 
 - Imágenes: [OpenGameArt.Com](https://opengameart.org/)
 
-- Líbrería: [Keypress](https://dmauro.github.io/Keypress)
+- Librería: [Keypress](https://dmauro.github.io/Keypress)
